@@ -1,0 +1,4 @@
+selenium == 4.3.0
+httplib2 == 0.20.4
+fake_useragent == 0.1.11
+datetime == 4.4
