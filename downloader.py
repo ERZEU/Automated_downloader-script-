@@ -35,4 +35,3 @@ def downloader_img():
 
     driver.close()
     driver.quit()
-downloader_img()
